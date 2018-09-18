@@ -4,7 +4,7 @@
 Python v3.6
 
 # Execution
-the file glaccount.py can be executed from any python Interpreter
+# # the file glaccount.py can be executed from any python Interpreter
 
 provides the prediction of a GL account as well as probably options
 
